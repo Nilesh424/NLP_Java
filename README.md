@@ -1,3 +1,3 @@
 # NLP_Java
 
-Basic techs such as tf-idf, clustering, Inverted indexes, stopword removal. 
+Demonstrations of NLP concepts such as tf-idf, clustering, Inverted indexes, Vector Space Model, and stopword removal.
